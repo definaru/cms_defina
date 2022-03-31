@@ -1,0 +1,11 @@
+{
+    "config": {
+        "disable-tls": true,
+        "secure-http": false
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\defina\\": "app/defina/"
+        }
+    }
+}
